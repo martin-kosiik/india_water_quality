@@ -455,3 +455,92 @@ useful_documents/LASI_DataRequestForm_0 - with signiture.pdf
 useful_documents/GPHandbook_0.pdf
 useful_documents/did_table_baseline.PNG
 useful_documents/38856336_edf4.png
+data/data/.DS_Store
+data/data/readme.pdf
+data/data/replication-data-packet/nss_round_55_district.dta
+data/data/replication-data-packet/nss_round_55_individual.dta
+data/data/replication-data-packet/village_vars.dta
+data/data/replication-readme.txt
+data/DHS/2015-2016/Births Recode/IABR74FL.DCT
+data/DHS/2015-2016/Births Recode/IABR74FL.DO
+data/DHS/2015-2016/Births Recode/IABR74FL.DTA
+data/DHS/2015-2016/Births Recode/IABR74FL.FRQ
+data/DHS/2015-2016/Births Recode/IABR74FL.FRW
+data/DHS/2015-2016/Births Recode/IABR74FL.MAP
+data/DHS/2015-2016/gps data/IAGC72FL.ZIP
+data/DHS/2015-2016/gps data/IAGE71FL.ZIP
+data/DHS/2015-2016/gps data/IAGE71FL/DHS_README.txt
+data/DHS/2015-2016/gps data/IAGE71FL/GPS_Displacement_README.txt
+data/DHS/2015-2016/gps data/IAGE71FL/IAGE71FL.cpg
+data/DHS/2015-2016/gps data/IAGE71FL/IAGE71FL.dbf
+data/DHS/2015-2016/gps data/IAGE71FL/IAGE71FL.prj
+data/DHS/2015-2016/gps data/IAGE71FL/IAGE71FL.sbn
+data/DHS/2015-2016/gps data/IAGE71FL/IAGE71FL.sbx
+data/DHS/2015-2016/gps data/IAGE71FL/IAGE71FL.shp
+data/DHS/2015-2016/gps data/IAGE71FL/IAGE71FL.shp.xml
+data/DHS/2015-2016/gps data/IAGE71FL/IAGE71FL.shx
+data/DHS/2015-2016/Individual Recode/IAIR74FL.DCT
+data/DHS/2015-2016/Individual Recode/IAIR74FL.DO
+data/DHS/2015-2016/Individual Recode/IAIR74FL.DOC
+data/DHS/2015-2016/Individual Recode/IAIR74FL.DTA
+data/DHS/2015-2016/Individual Recode/IAIR74FL.FRQ
+data/DHS/2015-2016/Individual Recode/IAIR74FL.FRW
+data/DHS/2015-2016/Individual Recode/IAIR74FL.MAP
+data/DISE database/pythonsqlite.db
+data/DISE/2012-2013/missing.txt
+data/DISE/DISE2005-09_DCF.pdf
+data/DISE/RawDataDescription.pdf
+data/DISE/UDISE DCF description2012-13.pdf
+data/EEBs.pdf
+data/gahi_data_export_20211023100348.zip
+data/grade_1_enrol_by_gp_and_year.csv
+data/GSI/Citation_Policy_Of_GSI.pdf
+data/GSI/DCPORT1GSIGOVI923435_5.docx
+data/GSI/DCPORT1GSIGOVI923435_5.xml
+data/GSI/DCPORT1GSIGOVI923574_4.docx
+data/GSI/DCPORT1GSIGOVI923574_4.xml
+data/GSI/DCPORT1GSIGOVI923655_3.doc
+data/GSI/DCPORT1GSIGOVI923655_3.xml
+data/GSI/DCPORT1GSIGOVI923725_2.doc
+data/GSI/DCPORT1GSIGOVI923725_2.xml
+data/GSI/DCPORT1GSIGOVI923726_1.doc
+data/GSI/DCPORT1GSIGOVI923726_1.xml
+data/GSI/DCPORT1GSIGOVI923727_0.doc
+data/GSI/DCPORT1GSIGOVI923727_0.xml
+data/QUALITY_AFFECTED_HABITATIONS_AS_ON_1_APR_09.csv
+data/QUALITY_AFFECTED_HABITATIONS_AS_ON_1_APR_10.csv
+data/QUALITY_AFFECTED_HABITATIONS_AS_ON_1_APR_11.csv
+data/QUALITY_AFFECTED_HABITATIONS_AS_ON_1_APR_12.csv
+data/targ_vs_achieved.csv
+data/UDISEplus/2018-2019/100_enr1/nationalEnrol1.csv
+data/UDISEplus/2018-2019/100_enr1/nationalEnrol1_MH_AS_WB_MP.csv
+data/UDISEplus/2018-2019/100_enr1/nationalEnrol1_RJ_UP_BR.csv
+data/UDISEplus/2018-2019/100_enr2/nationalEnrol2.csv
+data/UDISEplus/2018-2019/100_enr2/nationalEnrol2_MH_AS_WB_MP.csv
+data/UDISEplus/2018-2019/100_enr2/nationalEnrol2_RJ_UP_BR.csv
+data/UDISEplus/2018-2019/100_fac.csv
+data/UDISEplus/2018-2019/100_prof1.csv
+data/UDISEplus/2018-2019/100_prof2.csv
+data/UDISEplus/2018-2019/100_tch.csv
+data/UDISEplus/DSP_Schema (1).pdf
+data/UDISEplus/DSP_Schema.pdf
+data/UDISEplus/enrolment_data_1_All State_2018-19.zip
+data/UDISEplus/enrolment_data_1_All State_2019-20.zip
+data/UDISEplus/enrolment_data_2_All State_2018-19.zip
+data/UDISEplus/enrolment_data_2_All State_2019-20.zip
+data/UDISEplus/facility_data_All State_2018-19.zip
+data/UDISEplus/facility_data_All State_2019-20.zip
+data/UDISEplus/profile_data_1_All State_2018-19.zip
+data/UDISEplus/profile_data_1_All State_2019-20.zip
+data/UDISEplus/profile_data_2_All State_2018-19.zip
+data/UDISEplus/profile_data_2_All State_2019-20.zip
+data/UDISEplus/teacher_data_All State_2018-19.zip
+data/UDISEplus/teacher_data_All State_2019-20.zip
+data/UDISEplus/udise_schools.csv
+data/village-directory.csv
+data/water_quality_tests/Andhra Pradesh/2013-2014/missing.txt
+data/water_quality_tests/Madhya Pradesh/2016-2017/missing.txt
+data/water_quality_tests/Maharashtra/2018-2019/missing.txt
+data/water_quality_tests/Odisha/2016-2017/missing.txt
+data/water_quality_tests/Tamil Nadu/2018-2019/missing.txt
+data/water_quality_tests/water_quality_tests.db

@@ -257,3 +257,201 @@ rosm.cache/osm/7_94_55.png
 rosm.cache/osm/7_94_54.png
 rosm.cache/cartolight/7_95_55.png
 rosm.cache/cartolight/7_95_54.png
+*.rar
+data/GSI/Mine_Quarry.dbf
+data/GSI/Mine_Quarry.prj
+data/GSI/Mine_Quarry.shp
+data/GSI/Mine_Quarry.shx
+data/GSI/Mineralization.dbf
+data/GSI/Mineralization.prj
+data/GSI/Mineralization.shp
+data/GSI/Mineralization.shx
+data/GSI/more_maps/Commodity_2M.dbf
+data/GSI/more_maps/Commodity_2M.prj
+data/GSI/more_maps/Commodity_2M.shp
+data/GSI/more_maps/Commodity_2M.shx
+data/GSI/more_maps/Deposit.dbf
+data/GSI/more_maps/Deposit.prj
+data/GSI/more_maps/Deposit.shp
+data/GSI/more_maps/Deposit.shx
+data/GSI/more_maps/Geology_2M.dbf
+data/GSI/more_maps/Geology_2M.prj
+data/GSI/more_maps/Geology_2M.shp
+data/GSI/more_maps/Geology_2M.shx
+data/GSI/more_maps/Geomorphology 250K.dbf
+data/GSI/more_maps/Geomorphology 250K.prj
+data/GSI/more_maps/Geomorphology 250K.shp
+data/GSI/more_maps/Geomorphology 250K.shx
+data/GSI/more_maps/Lineament Form.dbf
+data/GSI/more_maps/Lineament Form.prj
+data/GSI/more_maps/Lineament Form.shp
+data/GSI/more_maps/Lineament Form.shx
+data/GSI/more_maps/Magnitude Of Lineament.dbf
+data/GSI/more_maps/Magnitude Of Lineament.prj
+data/GSI/more_maps/Magnitude Of Lineament.shp
+data/GSI/more_maps/Magnitude Of Lineament.shx
+data/GSI/more_maps/Sm_Nd.dbf
+data/GSI/more_maps/Sm_Nd.prj
+data/GSI/more_maps/Sm_Nd.shp
+data/GSI/more_maps/Sm_Nd.shx
+data/GSI/qgis_gsi_project.qgz
+data/GSI/Smart-Map/0_Dados.csv
+data/GSI/Soil Regolith.dbf
+data/GSI/Soil Regolith.prj
+data/GSI/Soil Regolith.shp
+data/GSI/Soil Regolith.shx
+data/GSI/Stream Sediment.dbf
+data/GSI/Stream Sediment.prj
+data/GSI/Stream Sediment.qix
+data/GSI/Stream Sediment.shp
+data/GSI/Stream Sediment.shx
+data/GSI/west_bengal/Citation_Policy_Of_GSI.pdf
+data/GSI/west_bengal/Geomorphology Landform.dbf
+data/GSI/west_bengal/Geomorphology Landform.prj
+data/GSI/west_bengal/Geomorphology Landform.shp
+data/GSI/west_bengal/Geomorphology Landform.shx
+data/GSI/west_bengal/Lithology.dbf
+data/GSI/west_bengal/Lithology.prj
+data/GSI/west_bengal/Lithology.shp
+data/GSI/west_bengal/Lithology.shx
+data/GSI/west_bengal/Mineralization.dbf
+data/GSI/west_bengal/Mineralization.prj
+data/GSI/west_bengal/Mineralization.shp
+data/GSI/west_bengal/Mineralization.shx
+data/GSI/west_bengal/Soil C Horizon.dbf
+data/GSI/west_bengal/Soil C Horizon.prj
+data/GSI/west_bengal/Soil C Horizon.shp
+data/GSI/west_bengal/Soil C Horizon.shx
+data/GSI/west_bengal/Soil Regolith.dbf
+data/GSI/west_bengal/Soil Regolith.prj
+data/GSI/west_bengal/Soil Regolith.shp
+data/GSI/west_bengal/Soil Regolith.shx
+data/GSI/west_bengal/Stream Sediment.dbf
+data/GSI/west_bengal/Stream Sediment.prj
+data/GSI/west_bengal/Stream Sediment.shp
+data/GSI/west_bengal/Stream Sediment.shx
+data/HABITATIONS_COVERED_UNDER_PIPE_WATER_SCHEME_PWS_AS_ON_15_04_2013.csv
+data/india-india-village-level-geospatial-socio-econ-1991-2001-ar-2001-gdb.zip
+data/india-india-village-level-geospatial-socio-econ-1991-2001-ml-2001-gdb.zip
+data/india-india-village-level-geospatial-socio-econ-1991-2001-nl-2001-gdb.zip
+data/india_2001_census_map/all_india/all_india_block_level_map.dbf
+data/india_2001_census_map/all_india/all_india_block_level_map.prj
+data/india_2001_census_map/all_india/all_india_block_level_map.shp
+data/india_2001_census_map/all_india/all_india_block_level_map.shx
+data/india_2001_census_map/all_india/all_india_village_level_map.dbf
+data/india_2001_census_map/all_india/all_india_village_level_map.prj
+data/india_2001_census_map/all_india/all_india_village_level_map.shp
+data/india_2001_census_map/all_india/all_india_village_level_map.shx
+data/india_2001_census_map/all_india/all_india_village_level_map_head.dbf
+data/india_2001_census_map/all_india/all_india_village_level_map_head.prj
+data/india_2001_census_map/all_india/all_india_village_level_map_head.shp
+data/india_2001_census_map/all_india/all_india_village_level_map_head.shx
+data/india_2001_census_map/CopyOfindia-india-village-level-geospatial-socio-econ-1991-2001-hr-2001-shp.zip
+data/india_2001_census_map/india-india-village-level-geospatial-socio-econ-1991-2001-ap-2001-shp.zip
+data/india_2001_census_map/india-india-village-level-geospatial-socio-econ-1991-2001-as-2001-shp.zip
+data/india_2001_census_map/india-india-village-level-geospatial-socio-econ-1991-2001-br-2001-shp.zip
+data/india_2001_census_map/india-india-village-level-geospatial-socio-econ-1991-2001-cg-2001-shp.zip
+data/india_2001_census_map/india-india-village-level-geospatial-socio-econ-1991-2001-ga-2001-shp.zip
+data/india_2001_census_map/india-india-village-level-geospatial-socio-econ-1991-2001-gj-2001-shp.zip
+data/india_2001_census_map/india-india-village-level-geospatial-socio-econ-1991-2001-hp-2001-shp.zip
+data/india_2001_census_map/india-india-village-level-geospatial-socio-econ-1991-2001-hr-2001-shp.zip
+data/india_2001_census_map/india-india-village-level-geospatial-socio-econ-1991-2001-jh-2001-shp.zip
+data/india_2001_census_map/india-india-village-level-geospatial-socio-econ-1991-2001-jk-2001-shp.zip
+data/india_2001_census_map/india-india-village-level-geospatial-socio-econ-1991-2001-kl-2001-shp.zip
+data/india_2001_census_map/india-india-village-level-geospatial-socio-econ-1991-2001-mh-2001-shp.zip
+data/india_2001_census_map/india-india-village-level-geospatial-socio-econ-1991-2001-mn-2001-shp.zip
+data/india_2001_census_map/india-india-village-level-geospatial-socio-econ-1991-2001-mz-2001-shp.zip
+data/india_2001_census_map/india-india-village-level-geospatial-socio-econ-1991-2001-or-2001-shp.zip
+data/india_2001_census_map/india-india-village-level-geospatial-socio-econ-1991-2001-pb-2001-shp.zip
+data/india_2001_census_map/india-india-village-level-geospatial-socio-econ-1991-2001-sk-2001-shp.zip
+data/india_2001_census_map/india-india-village-level-geospatial-socio-econ-1991-2001-tn-2001-shp.zip
+data/india_2001_census_map/india-india-village-level-geospatial-socio-econ-1991-2001-tr-2001-shp.zip
+data/india_2001_census_map/india-india-village-level-geospatial-socio-econ-1991-2001-uk-2001-shp.zip
+data/india_2001_census_map/india-india-village-level-geospatial-socio-econ-1991-2001-up-2001-shp.zip
+data/india_2001_census_map/india-india-village-level-geospatial-socio-econ-1991-2001-uterr-2001-shp.zip
+data/india_2001_census_map/india-india-village-level-geospatial-socio-econ-1991-2001-wb-2001-shp.zip
+data/india_2001_census_map/india-village-census-2001-KA.zip
+data/india_2001_census_map/india-village-census-2001-MP.zip
+data/india_2001_census_map/india-village-census-2001-RJ.zip
+data/List of House Connections provided/2014-2015/all_states.ods
+data/List of House Connections provided/2014-2015/notes.txt
+data/LIST_OF_SOURCES_AND_SCHEMES_IN_HABITATIONS_AS_ON_15_APR_13.csv
+data/matching_village_codes/census_2001_codes_with_shrid.csv
+data/Nss68_10_new format/autorun.inf
+data/Nss68_10_new format/AutorunPro.exe
+data/Nss68_10_new format/brandings/default/media/images/arrow.down.png
+data/Nss68_10_new format/brandings/default/media/images/arrow.right.png
+data/Nss68_10_new format/brandings/default/media/images/dot_bluegreen.gif
+data/Nss68_10_new format/brandings/default/media/images/logo_2.gif
+data/Nss68_10_new format/brandings/default/media/images/navigation/blank.png
+data/Nss68_10_new format/brandings/default/media/images/navigation/file.png
+data/Nss68_10_new format/brandings/default/media/images/navigation/foldericon.png
+data/Nss68_10_new format/brandings/default/media/images/navigation/I.png
+data/Nss68_10_new format/brandings/default/media/images/navigation/L.png
+data/Nss68_10_new format/brandings/default/media/images/navigation/Lminus.png
+data/Nss68_10_new format/brandings/default/media/images/navigation/Lplus.png
+data/Nss68_10_new format/brandings/default/media/images/navigation/T.png
+data/Nss68_10_new format/brandings/default/media/images/navigation/Thumbs.db
+data/Nss68_10_new format/brandings/default/media/images/navigation/Tminus.png
+data/Nss68_10_new format/brandings/default/media/images/navigation/Top.png
+data/Nss68_10_new format/brandings/default/media/images/navigation/Top.wb.png
+data/Nss68_10_new format/brandings/default/media/images/navigation/Tplus.png
+data/Nss68_10_new format/brandings/default/media/images/nesstar48.gif
+data/Nss68_10_new format/brandings/default/media/images/openfoldericon.png
+data/Nss68_10_new format/brandings/default/media/images/Thumbs.db
+data/Nss68_10_new format/brandings/default/media/images/toolkit_icon.gif
+data/Nss68_10_new format/brandings/default/media/images/toolkit_icon60.gif
+data/Nss68_10_new format/brandings/default/media/images/toolkit_icon60.v1.gif
+data/Nss68_10_new format/brandings/default/media/js/AC_OETags.js
+data/Nss68_10_new format/brandings/default/media/scripts/cssexpr.js
+data/Nss68_10_new format/brandings/default/media/scripts/navigation.js
+data/Nss68_10_new format/brandings/default/media/scripts/xmenu.js
+data/Nss68_10_new format/brandings/default/media/style/datareaderbox.css
+data/Nss68_10_new format/brandings/default/media/style/header.css
+data/Nss68_10_new format/brandings/default/media/style/navigation.css
+data/Nss68_10_new format/brandings/default/media/style/style.css
+data/Nss68_10_new format/brandings/default/media/style/xmenu.css
+data/Nss68_10_new format/README_FIRST.docx
+data/Nss68_10_new format/software/nesstar/explorer_logo.gif
+data/Nss68_10_new format/software/nesstar/ihsn-i18n.exe
+data/Nss68_10_new format/software/nesstar/nesstar16.gif
+data/Nss68_10_new format/software/nesstar/nesstar32.gif
+data/Nss68_10_new format/software/nesstar/nesstar48.gif
+data/Nss68_10_new format/software/nesstar/NesstarExplorerInstaller.exe
+data/Nss68_10_new format/survey0/data/ddi.xml
+data/Nss68_10_new format/survey0/data/document/Appendix-I_68.doc
+data/Nss68_10_new format/survey0/data/document/Appendix-II_68.doc
+data/Nss68_10_new format/survey0/data/document/District_code.txt
+data/Nss68_10_new format/survey0/data/document/Estimation Procedure_68.doc
+data/Nss68_10_new format/survey0/data/document/Instruction_to_field_staff.pdf
+data/Nss68_10_new format/survey0/data/document/Intoduction Concepts, Definitions and Procedures.doc
+data/Nss68_10_new format/survey0/data/document/nic_2008.pdf
+data/Nss68_10_new format/survey0/data/document/Schedule_68_10.pdf
+data/Nss68_10_new format/survey0/data/document/State code_68.doc
+data/Nss68_10_new format/survey0/data/nsso68_schedule_10_emplyment_and_unemployment.Nesstar
+data/Nss68_10_new format/survey0/data/report/KI-68th-E&U-PDF.pdf
+data/official_india_2011_village_boundary_polygons-master/source.txt
+data/official_india_2011_village_boundary_polygons-master/up/missing_name_UTTARPRADESH.cpg
+data/official_india_2011_village_boundary_polygons-master/up/missing_name_UTTARPRADESH.dbf
+data/official_india_2011_village_boundary_polygons-master/up/missing_name_UTTARPRADESH.prj
+data/official_india_2011_village_boundary_polygons-master/up/missing_name_UTTARPRADESH.shp
+data/official_india_2011_village_boundary_polygons-master/up/missing_name_UTTARPRADESH.shx
+data/official_india_2011_village_boundary_polygons-master/up/villages_09.cpg
+data/official_india_2011_village_boundary_polygons-master/up/villages_09.dbf
+data/official_india_2011_village_boundary_polygons-master/up/villages_09.prj
+data/official_india_2011_village_boundary_polygons-master/up/villages_09.shp
+data/official_india_2011_village_boundary_polygons-master/up/villages_09.shx
+data/pmgsy-geosadak-master.zip
+useful_documents/WQTLabsGuidelines.pdf
+useful_documents/winning_auction.PNG
+useful_documents/UniformDrinkingWaterQualityMonitoringProtocol.pdf
+useful_documents/semi_annual_twfe.PNG
+useful_documents/secc2011.PNG
+useful_documents/RSMguide.pdf
+useful_documents/Report_No_15_of_2018_-_Performance_Audit_on_National_Rural_Drinking_Water_Programme_in_Ministry_of_Drinking_Water_and_Sanitation.pdf
+useful_documents/log_price.PNG
+useful_documents/LASI_DataRequestForm_0.pdf
+useful_documents/LASI_DataRequestForm_0 - with signiture.pdf
+useful_documents/GPHandbook_0.pdf
+useful_documents/did_table_baseline.PNG
+useful_documents/38856336_edf4.png
